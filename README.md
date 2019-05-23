@@ -79,13 +79,27 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 
 #### （2）深度学习基础
+
 > * [AdaGrad算法](https://zhuanlan.zhihu.com/p/29920135)
+
+> * [lambda-rank算法](https://link.zhihu.com/?target=https%3A//pdfs.semanticscholar.org/0df9/c70875783a73ce1e933079f328e8cf5e9ea2.pdf)
 
 #### （3）Deep Learning for NLP 
 
 > * [词嵌入向量（word-embedding）](https://link.zhihu.com/?target=http%3A//papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
-> * [利用卷积神经网络对文本进行分类的算法（text-CNNs）](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1408.5882)
+> * [text-CNNs](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1408.5882)
+
+> * [character-CNNs](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1509.01626.pdf)
+
+> * [神经图灵机（Neural Tuning Machine）](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1410.5401)
+
+> * [端到端学习（End-to-End）的记忆网络](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1503.08895.pdf)
+
+> * [注意力机制应用于NLP问题：提出经典的encoder-decoder with attention mechanism模型](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1606.00979)
+
+> * [知识图谱补全的经典方法:TransE](https://link.zhihu.com/?target=https%3A//www.utc.fr/~bordesan/dokuwiki/_media/en/transe_nips13.pdf)
+
 
 ### 2. 实用工具
 
@@ -95,11 +109,23 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 ## 四 推荐阅读与学习资源
 ---
+### 推荐阅读
 
 > * [肖仰华 | 基于知识图谱的问答系统](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/78146295?%3E)
 
+> * [技术动态 | 基于深度学习知识库问答研究进展](http://blog.openkg.cn/%E6%8A%80%E6%9C%AF%E5%8A%A8%E6%80%81-%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95/#more-394)
+
+> * [TF-IDF与余弦相似性的应用（一）：自动提取关键词](http://www.ruanyifeng.com/blog/2013/03/tf-idf.html)
+
+> * [揭开知识库问答KB-QA的面纱8·非结构化知识篇](https://zhuanlan.zhihu.com/p/26650719)
+
+> * [揭开知识库问答KB-QA的面纱9·动态模型篇](https://zhuanlan.zhihu.com/p/27105336)
+
+### 学习资源
+
 > * [Your new Mentor for Data Science E-Learning](https://github.com/virgili0/Virgilio)
 
+> * [增强学习](https://zhuanlan.zhihu.com/intelligentunit)
 
 ## 五 参考链接
 ---
