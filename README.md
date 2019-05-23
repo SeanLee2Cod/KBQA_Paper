@@ -1,6 +1,6 @@
 # KBQA_Paper
 ---
-the paper trace of KBQA, also contains some common/classic NLP/Deep Learning paper and resources.
+the paper trace of KBQA, also contains some common/classic NLP/Deep Learning papers and resources.
 
 ## 一 传统的方法
 ---
