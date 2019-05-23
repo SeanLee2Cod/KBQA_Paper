@@ -59,7 +59,7 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 > * Zhang Y, Liu K, He S, et al. Question Answering over Knowledge Base with Neural Attention Combining Global Knowledge Information[J]. arXiv preprint arXiv:1606.00979, 2016.
 
-（注：以上论文皆可通过**[DBLP](https://dblp.uni-trier.de/)**搜索并下载获取全文pdf）
+（注：以上论文皆可通过[DBLP](https://dblp.uni-trier.de/)搜索并下载获取全文pdf）
 
 ## 三 核心概念与实用工具
 ---
