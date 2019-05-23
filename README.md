@@ -76,7 +76,7 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 > * [词袋模型（Bag-of-words model）](https://blog.csdn.net/v_JULY_v/article/details/6555899)
 
 
-> * []
+
 
 #### （2）深度学习基础
 > * [AdaGrad算法](https://zhuanlan.zhihu.com/p/29920135)
@@ -85,7 +85,7 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 > * [词嵌入向量（word-embedding）](https://link.zhihu.com/?target=http%3A//papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
-> * [利用卷积神经网络对文本进行分类的算法(text-CNNs)](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1408.5882)
+> * [利用卷积神经网络对文本进行分类的算法（text-CNNs）](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1408.5882)
 
 ### 2. 实用工具
 
@@ -95,6 +95,7 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 ## 四 推荐阅读与学习资源
 ---
+
 > * [肖仰华 | 基于知识图谱的问答系统](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/78146295?%3E)
 
 > * [Your new Mentor for Data Science E-Learning](https://github.com/virgili0/Virgilio)
