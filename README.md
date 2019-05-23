@@ -2,9 +2,9 @@
 ---
 the paper trace of KBQA, also contains some common/classic NLP/Deep Learning paper.
 
-## 传统的方法
+## 一 传统的方法
 ---
-### 语义解析（Semantic Parsing）
+### 1. 语义解析（Semantic Parsing）
 
 该方法是一种偏linguistic的方法，主体思想是将自然语言转化为一系列形式化的逻辑形式（logic form）,通过对逻辑形式进行自底向上的解析，得到一种可以表达整个问题语义的逻辑形式，通过相应的查询语句（类似lambda-Caculus）在知识库中进行查询，从而得出答案。
 
