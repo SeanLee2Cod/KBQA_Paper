@@ -59,6 +59,7 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 > * Zhang Y, Liu K, He S, et al. Question Answering over Knowledge Base with Neural Attention Combining Global Knowledge Information[J]. arXiv preprint arXiv:1606.00979, 2016.
 
+（注：以上论文皆可通过**[DBLP](https://dblp.uni-trier.de/)**搜索并下载获取全文pdf）
 
 ## 三 核心概念与实用工具
 ---
@@ -109,7 +110,7 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 ## 四 推荐阅读与学习资源
 ---
-### 推荐阅读
+### 1. 推荐阅读
 
 > * [肖仰华 | 基于知识图谱的问答系统](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/78146295?%3E)
 
@@ -121,7 +122,7 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 > * [揭开知识库问答KB-QA的面纱9·动态模型篇](https://zhuanlan.zhihu.com/p/27105336)
 
-### 学习资源
+### 2. 学习资源
 
 > * [Your new Mentor for Data Science E-Learning](https://github.com/virgili0/Virgilio)
 
