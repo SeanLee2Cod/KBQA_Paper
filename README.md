@@ -1,6 +1,6 @@
 # KBQA_Paper
 ---
-the paper trace of KBQA, also contains some common/classic NLP/Deep Learning paper.
+the paper trace of KBQA, also contains some common/classic NLP/Deep Learning paper and resources.
 
 ## 一 传统的方法
 ---
@@ -75,10 +75,17 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 > * [词袋模型（Bag-of-words model）](https://blog.csdn.net/v_JULY_v/article/details/6555899)
 
+
+> * []
+
 #### （2）深度学习基础
 > * [AdaGrad算法](https://zhuanlan.zhihu.com/p/29920135)
 
+#### （3）Deep Learning for NLP 
 
+> * [词嵌入向量（word-embedding）](https://link.zhihu.com/?target=http%3A//papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+
+> * [利用卷积神经网络对文本进行分类的算法(text-CNNs)](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1408.5882)
 
 ### 2. 实用工具
 
