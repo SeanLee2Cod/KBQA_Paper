@@ -2,7 +2,7 @@
 ---
 the paper trace of KBQA, also contains some common/classic NLP/Deep Learning paper.
 
-##一 传统的方法
+## 传统的方法
 ---
 ###1.语义解析（Semantic Parsing）
 
@@ -88,7 +88,9 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 ##四 推荐阅读与学习资源
 ---
-> * [机器学习]
+> * [肖仰华 | 基于知识图谱的问答系统](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/78146295?%3E)
+
+> * [Your new Mentor for Data Science E-Learning](https://github.com/virgili0/Virgilio)
 
 
 ##五 参考链接
@@ -96,4 +98,3 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620
 
 > * [知乎专栏：揭开知识库问答KB-QA的面纱](https://zhuanlan.zhihu.com/kb-qa)
 
-> * [肖仰华 | 基于知识图谱的问答系统](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/78146295?%3E)
