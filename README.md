@@ -128,12 +128,21 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620](http://aclweb.
 > * [揭开知识库问答KB-QA的面纱9·动态模型篇](https://zhuanlan.zhihu.com/p/27105336)
 
 ### 2. 学习资源
+> * [百度开源AnyQ问答系统框架](https://github.com/baidu/AnyQ/blob/master/docs/images/AnyQ-Framework.png)
 
 > * [Your new Mentor for Data Science E-Learning](https://github.com/virgili0/Virgilio)
 
 > * [增强学习](https://zhuanlan.zhihu.com/intelligentunit)
 
+> * [基于知识图谱的问答系统入门之—NLPCC2016KBQA数据集](https://zhuanlan.zhihu.com/p/53796189)
+
 > * [基于电影知识图谱的智能问答系统](https://blog.csdn.net/appleyk/article/details/80331997)
+
+> * [从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序](https://github.com/SimmerChan/KG-demo-for-movie)
+
+> * [基于知识库的问答：seq2seq模型实践](https://github.com/wavewangyue/kbqa)
+
+> * [基于知识库的开放域问答系统的相关工作](https://github.com/geofftong/NJU_KBQA)
 
 ## 五 参考链接
 ---
