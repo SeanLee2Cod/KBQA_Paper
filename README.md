@@ -133,6 +133,8 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620](http://aclweb.
 
 > * [增强学习](https://zhuanlan.zhihu.com/intelligentunit)
 
+> * [基于电影知识图谱的智能问答系统](https://blog.csdn.net/appleyk/article/details/80331997)
+
 ## 五 参考链接
 ---
 
