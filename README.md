@@ -115,6 +115,8 @@ Question Answering with Subgraph Embeddings. EMNLP 2014: 615-620](http://aclweb.
 
 > * [重磅 | 肖仰华：领域知识图谱落地实践中的问题与对策](https://zhuanlan.zhihu.com/p/41923765)
 
+> * [重磅 | 肖仰华：知识图谱与认知智能](https://zhuanlan.zhihu.com/p/35295166)
+
 > * [技术动态 | 基于深度学习知识库问答研究进展](http://blog.openkg.cn/%E6%8A%80%E6%9C%AF%E5%8A%A8%E6%80%81-%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95/#more-394)
 
 > * [TF-IDF与余弦相似性的应用（一）：自动提取关键词](http://www.ruanyifeng.com/blog/2013/03/tf-idf.html)
